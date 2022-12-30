@@ -22,7 +22,6 @@ p{
     margin: 40px auto;
 }
 
-.links{
+.links a{
     padding: 0 10px;
-    display: block;
 }
