@@ -14,7 +14,7 @@ p{
     text-align: center;
 }
 
-pic{
+.pic{
     display: block;
     max-width: 100%;
     border-radius: 5px;
